@@ -3,6 +3,8 @@ Project on Automatic Sleep Phase detection
 
 #### Contributors 
 - Anirudh Sathish 
+- Bhavagna
+- Sai Kiran
 
 #### Dataset 
 - Sleep-edf-2018 
